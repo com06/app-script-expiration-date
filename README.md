@@ -1,1 +1,5 @@
-# app-script-expiration-date
+# Script Google Sheet แจ้งเตือนวันหมดอายุ ผ่าน Gmail และ LINE
+
+โปรเจค Script Google Sheet แจ้งเตือนวันหมดอายุ ผ่าน Gmail และ LINE นี้ถูกออกแบบมาเพื่อช่วยให้ธุรกิจสามารถบริหารจัดการสินค้าคงคลังได้อย่างมีประสิทธิภาพยิ่งขึ้น โดยระบบจะทำการสแกนข้อมูลใน Google Sheet เป็นประจำและส่งแจ้งเตือนไปยังผู้เกี่ยวข้องเมื่อสินค้าใกล้หมดอายุ พร้อมทั้งแนบภาพสินค้าเพื่อความสะดวกในการตรวจสอบ นอกจากนี้ ผู้ใช้งานยังสามารถกำหนดช่วงเวลาในการแจ้งเตือนล่วงหน้าได้ตามความต้องการ ช่วยลดความเสี่ยงในการใช้สินค้าที่หมดอายุและป้องกันความเสียหายที่อาจเกิดขึ้น
+
+This Google Sheet Script project for expiration date notifications via Gmail and LINE is an automated system that utilizes Google App Script to monitor expiration dates of products or materials recorded in a Google Sheet. When an item is nearing its expiration date, the system will send notifications to designated recipients via Gmail and LINE, allowing them to take timely actions such as inventory checks or planning for future usage. This significantly reduces the risk of using expired products and enhances overall inventory management efficiency.
